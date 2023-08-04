@@ -1,2 +1,2 @@
 # RetNetGPTParallel
-Parallel RetNet Based Andrej's NanoGPT from Scratch
+Andrej's NanoGPT on parallel RetNet Architecture https://arxiv.org/pdf/2307.08621.pdf
